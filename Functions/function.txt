@@ -1,0 +1,26 @@
+*What are functions?-block of code that performs a specific task and can be reused.
+*Why do we use functions? -Modularity,Readability,Easy to debug
+*Components of functions-
+accessModifier static returnType methodName(parameters) {
+    // body
+}
+*Sequential flow of function-step by step exececution of function 
+Context of functions = global scope
+*stack memory and heap memory ,local variable table(LVT),how objects are stored?
+Stack memory-stores vaiables in lifo order
+Heap memory-stores objects
+LVT local vaiable table=inside the stack memory stores variables
+to terminate void function- use return
+*Call by value - Copy of value is passed.original value remains same
+Call by reference- address/reference of variable is passed.original value may change.
+*Types of functions:
+Parameterized functions - When parameters are passed inside the functions.
+Non-Parameterized functions-No parameters are passed.
+Recursive functions-Function calling itself within its own body
+*Difference between parameters and arguments-parameters are variables that stores the value meanwhile arguments are the actual values.
+global variables-accessed by any function
+*pass by value(primitive data types) and pass by reference(non-primitive and objects)
+*Heap memory and stack memory(fast)
+*Function overloading-Same function name but different list of parameters or different return type
+*Function overriding- Same function name but different behaviours(always use @override when overriding)
+
