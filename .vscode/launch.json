@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountElement",
+            "request": "launch",
+            "mainClass": "Array.CountElement",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDifference",
+            "request": "launch",
+            "mainClass": "Array.ArrayDifference",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "ArraySum",
+            "request": "launch",
+            "mainClass": "Array.ArraySum",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "DistanceofDuplicate",
+            "request": "launch",
+            "mainClass": "Array.DistanceofDuplicate",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateElements",
+            "request": "launch",
+            "mainClass": "Array.DuplicateElements",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "DistanceEven",
+            "request": "launch",
+            "mainClass": "Array.DistanceEven",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
             "name": "DecimaltoHex",
             "request": "launch",
             "mainClass": "Functions.Conversions.DecimaltoHex",
