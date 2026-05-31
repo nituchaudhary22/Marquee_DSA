@@ -1,0 +1,7 @@
+*Time Complexity:Amount of time an algorithm takes to complete as a function of it input size.
+It depends on number of elementary operations not on seconds..
+*Space Complexity:memory used to complete a function.
+*Asymptotic Notations:
+1.Big-O Notation -Worst Case --O(n), O(n2)
+2.Omega Notation-Best Case -- 
+3.Theta Notation -Average Case --

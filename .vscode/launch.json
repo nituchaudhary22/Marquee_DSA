@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArraySumWCarry",
+            "request": "launch",
+            "mainClass": "Array.ArraySumWCarry",
+            "projectName": "Marquee_DSA_4c81c843"
+        },
+        {
+            "type": "java",
+            "name": "ArraySubtractionwithBorrow",
+            "request": "launch",
+            "mainClass": "Array.ArraySubtractionwithBorrow",
+            "projectName": "Marquee_DSA_4c81c843"
+        },
+        {
+            "type": "java",
+            "name": "PlaceValue",
+            "request": "launch",
+            "mainClass": "Functions.PlaceValue",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "ArraySubtractionwithBorrow",
+            "request": "launch",
+            "mainClass": "Array.ArraySubtractionwithBorrow",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargestElement",
+            "request": "launch",
+            "mainClass": "Array.SecondLargestElement",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
             "name": "CountElement",
             "request": "launch",
             "mainClass": "Array.CountElement",
