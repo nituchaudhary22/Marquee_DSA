@@ -1,8 +1,5 @@
 package Array;
-
-import java.util.Arrays;
-
-public class Subarray {
+public class PrintAllSubarray {
     public static void print(int[] arr,int start,int end){
         for(int i =start;i<=end;i++){
             System.out.print(arr[i]+" ");
