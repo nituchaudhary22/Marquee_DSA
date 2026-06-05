@@ -8,7 +8,7 @@ public class ArrayBasics {
         int size =sc.nextInt();
         int[] arr =new int[size];
         for(int i=0;i<size;i++){
-            arr[i] =sc.nextInt();
+            arr[i] =sc.nextInt(); //input for array
         }
         for(int i=0;i<size;i++){
             System.out.println(arr[i]);
@@ -18,4 +18,5 @@ public class ArrayBasics {
     }
 }
 //Why 0 indexing in arrays?
-//
+//calculation become complicated to calculate the address
+//Address of arr[i] = Base Address + (i × Size of Element)

@@ -1,6 +1,6 @@
 package Array;
 
-import javax.naming.spi.DirStateFactory.Result;
+// import javax.naming.spi.DirStateFactory.Result;
 
 public class CountElement {
     public static int Count(int[] arr,int X){
