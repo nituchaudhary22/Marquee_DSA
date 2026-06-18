@@ -19,4 +19,4 @@ public class ArrayBasics {
 }
 //Why 0 indexing in arrays?
 //calculation become complicated to calculate the address
-//Address of arr[i] = Base Address + (i × Size of Element)
+//Address of arr[i] = Base Address + (index × Size of Element)

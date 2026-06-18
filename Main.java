@@ -29,3 +29,8 @@ public class Main{
 
     }
 }
+//why not using import.java.util.*;
+//why camel case in java-case sensitive java is.
+//next() and nextLine() difference
+//charAt(0) is string method
+//methods

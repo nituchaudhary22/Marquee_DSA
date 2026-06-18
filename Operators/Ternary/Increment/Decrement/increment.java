@@ -41,3 +41,8 @@ public class increment {
         System.out.println(c); //6
     }
 }
+//types of increment and decrement operators
+// i = i + 1;  // Assignment + addition
+// i += 1;     // Compound assignment
+// i++;        // Increment operator
+// ++i;        // Pre-increment operator
