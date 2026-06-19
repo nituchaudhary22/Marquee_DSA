@@ -2,6 +2,7 @@ package Array;
 public class MaxSubArraySum {
     public static void MaxSum(int[] arr){
         int MaxSum =Integer.MIN_VALUE;
+        //Integer.MIN.VALUE is taken if there will be negative number ,0 will not be min value in that array
         int start =0;
         int end =0;
         for(int i=0;i<arr.length;i++){
