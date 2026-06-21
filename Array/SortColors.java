@@ -7,7 +7,7 @@ public class SortColors {
         int mid =0;
         int high = arr.length-1;
         while(mid<=high){
-            if(arr[mid] == 2){
+            if(arr[mid] == 0){ // to reverse the array check arr[mid] == 2
                 swap(arr,low,mid);
                 low++;
                 mid++;

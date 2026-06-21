@@ -1,3 +1,5 @@
+//HashMap contains key:value pairs
+//HashSet contains only unique values,no duplicates
 package Hashmap;
 import java.util.HashMap;
 public class HashMapbasics {
