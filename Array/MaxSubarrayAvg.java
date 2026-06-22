@@ -1,5 +1,6 @@
 // Sliding window technique
 //given array ,find maximum subarray of size k.
+//k is length of subarray
 package Array;
 public class MaxSubarrayAvg{
     public static double SubarrayAverage(int[] arr,int k){
@@ -16,7 +17,7 @@ public class MaxSubarrayAvg{
     }
     public static void main(String[] args) {
         int[] arr ={1,-4,-5,20,15};
-        int k =1;
+        int k =2;
         System.out.println(SubarrayAverage(arr, k));
     }
 }

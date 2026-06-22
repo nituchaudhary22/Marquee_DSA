@@ -3,7 +3,11 @@ import java.util.Scanner;
 public class ArrayBasics {
     public static void main(String[] args) {
       //  int[] arr ; //declaration
+      //int arr[]; //declaration
+      //int []arr; declaration
       //  int[] arr = {1,2,34,5}; //initialisation
+      //int[] arr,arr2; --2 arrays declare
+      //int arr[],arr2; -- arr is an array while arr2 is integer declare
         Scanner sc = new Scanner(System.in);
         int size =sc.nextInt();
         int[] arr =new int[size];

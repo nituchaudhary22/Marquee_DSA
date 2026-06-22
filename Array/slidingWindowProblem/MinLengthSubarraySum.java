@@ -1,7 +1,7 @@
 package Array.slidingWindowProblem;
 
-public static class MinLengthSubarraySum {
-    public int minSubArrayLen(int target, int[] nums) {
+public class MinLengthSubarraySum {
+    public static int minSubArrayLen(int target, int[] nums) {
         int left = 0;
         int sum = 0;
         int minLen = Integer.MAX_VALUE;
@@ -20,8 +20,8 @@ public static class MinLengthSubarraySum {
     }
     public static void main(String[] args) {
         int target = 5;
-        int[] nums = {2,4,2,1,5};
-
-        System.out.println(MinLengthSubarraySum(target,nums));
+        int[] nums = {2,4,2,1,2};
+        int ans =minSubArrayLen(target,nums);
+        System.out.println(ans);
     }
 }    
