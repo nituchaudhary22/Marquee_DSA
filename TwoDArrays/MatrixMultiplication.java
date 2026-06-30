@@ -2,7 +2,7 @@ package TwoDArrays;
 
 import java.util.Arrays;
 
-public class MatrixMultipliication {
+public class MatrixMultiplication {
     public static int[][] MatrixMultiply(int[][] matrix1,int[][] matrix2){
         int m = matrix1.length;
         int n =matrix1[0].length;
